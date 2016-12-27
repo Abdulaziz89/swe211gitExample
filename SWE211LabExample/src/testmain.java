@@ -2,7 +2,7 @@
 public class testmain {
 
 	public static void main(String[] args) {
-		int x=5;
+		int x=7;
 		if(5>x){
 			System.out.println("Wrong");
 		}
